@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/clear"
+        android:alphabeticShortcut="@string/clearshortcut"
+        android:title="@string/clear_label">
+    </item>
+    <item
+        android:id="@+id/setting"
+        android:alphabeticShortcut="@string/settingshortcut"
+        android:title="@string/setting_label">
+    </item>
+    <item
+        android:id="@+id/exit"
+        android:alphabeticShortcut="@string/exitshortcut"
+        android:title="@string/exit_label">
+    </item>
+</menu>

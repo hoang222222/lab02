@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">lab02</string>
+    <string name="clearshortcut">clearshortcut</string>
+    <string name="clear_label">Clear</string>
+    <string name="settingshortcut">setttingshortcut</string>
+    <string name="setting_label">Setting</string>
+    <string name="exit_label">Exit</string>
+    <string name="exitshortcut">exitshortcut</string>
+    <string name="message_cation">DELETE</string>
+    <string name="message_content">Deleted</string>
+    <string name="close">Close</string>
+    <string name="exit_caption">Exit</string>
+    <string name="exit_content">Do you want to exit?</string>
+    <string name="yes">exit</string>
+    <string name="no">cancel</string>
+    <string name="forecolor">Mau chu</string>
+    <string name="backcolor">Mau nen</string>
+    <string-array name="color_name_array">
+        <item name="red">Red</item>
+        <item name="orange">Orange</item>
+        <item name ="yellow">Yellow</item>
+        <item name="green">Green</item>
+        <item name="blue">Blue</item>
+        <item name="indigo">Indigo</item>
+        <item name="violet">Violet</item>
+    </string-array>
+    <string-array name="color_array">
+        <item>#FFFF0000</item>
+        <item>#FFFFA500</item>
+        <item>#FFFFFF00</item>
+        <item>#FF00FF00</item>
+        <item>#FF0000FF</item>
+        <item>#FF4B0082</item>
+        <item>#FFEE82EE</item>
+    </string-array>
+    <string-array name="text_size">
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+    </string-array>
+</resources>
